@@ -3,8 +3,8 @@
 This repository is for the code and exercises that are available in the book "Grokking Deep Learning", [available here](https://manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258 "Grokking Deep Learning").
 It is based on and uses large quantities of the code from the repository that accompanies the book, [linked here](https://github.com/iamtrask/Grokking-Deep-Learning)
 
-- [Chapter 3 - Forward Propagation - Intro to Neural Prediction]()
-- [Chapter 4 - Gradient Descent - Into to Neural Learning]()
+- [Chapter 3 - Forward Propagation - Intro to Neural Prediction](https://github.com/costelra/Grokking-Deep-Learning/blob/main/Chapter%203%20%20(Introduction%20to%20Neural%20Prediction%20-%20Forward%20Propagation).ipynb)
+- [Chapter 4 - Gradient Descent - Into to Neural Learning](https://github.com/costelra/Grokking-Deep-Learning/blob/main/Chapter%204%20(Introduction%20to%20Neural%20Learning%E2%80%94Gradient%20Descent).ipynb)
 - [Chapter 5 - Generalizing Gradient Descent - Learning Multiple Weights at a Time]()
 - [Chapter 6 - Intro to Backpropagation - Building your first DEEP Neural Network]()
 - [Chapter 8 - Intro to Regularization - Learning Signal and Ignoring Noise]()
